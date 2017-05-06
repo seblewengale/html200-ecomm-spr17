@@ -48,4 +48,18 @@ var products = [
     "imageTitle": "twill.jpg"
   }
 ]
+var form = document.querySelector('#email_form');
+
+form.addEventListener('submit', function (e) {
+  e.preventDefault();
+
+  alert('Please submit the correct email.');
+}, false);
+
+var submit_js_btn = document.querySelector('#js_submit');
+
+submit_js_btn.addEventListener('click', function () {
+  form.submit();
+}, false);
+
 
