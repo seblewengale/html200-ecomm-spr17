@@ -11,8 +11,9 @@ p {
 
 /* TODO: size images manually so this is not necessary */
 img {
-  max-height: 20rem;
-margin: 0;
+  max-height: 280px;
+  max-width: 150px;
+
 }
 
 /***************** NAV *****************/
@@ -24,8 +25,9 @@ nav a:hover {
 /**************** HERO *****************/
 
 header img {
-  max-height: 9rem;
+  max-height: 15rem;
   float: left;
+  margin: 1rem;
 }
 
 
