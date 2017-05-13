@@ -61,5 +61,17 @@ var submit_js_btn = document.querySelector('#js_submit');
 submit_js_btn.addEventListener('click', function () {
   form.submit();
 }, false);
+var submit_js_btn = document.querySelector('#js_submit');
+
+submit_js_btn.addEventListener('click', function () {
+  form.submit();
+}, false);
+(function(){
+
+  $("#btn btn-default btn-sm").on("click", function() {
+    $(".shopping-cart").fadeToggle( "fast");
+  });
+
+})()
 
 
