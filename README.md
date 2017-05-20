@@ -70,4 +70,6 @@ Lesson 09:
 Each weekly assignment will be graded independently. There will not be a final grade for the entire project.
 
 ## Testing 
-[update this section with information about the testing steps you took to ensure site quality]
+My experience all over the course is good , I have tested my assignment project with different brother and mobiles , its good experiment for me to check how my sit behave . Time to time through class I gate my updates.
+
+Thanks, Seble
