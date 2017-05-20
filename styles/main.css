@@ -11,7 +11,7 @@ p {
 
 /* TODO: size images manually so this is not necessary */
 img {
-  max-height: 280px;
+  max-height: 150px;
   max-width: 150px;
 
 }
